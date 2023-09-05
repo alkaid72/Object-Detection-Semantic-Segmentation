@@ -1,4 +1,4 @@
-# Object Detection and Semantic Segmentation
+# DDA4220 Project
 
 File Structure
 
